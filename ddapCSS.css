@@ -1,0 +1,233 @@
+.body{
+  font-family: "Montserrat", sans-serif;
+}
+
+.logoDanNamaLembagaMenu {
+  background: white;
+}
+
+.GambarLogo{
+  width: 10%;
+  height: 10%;
+}
+
+ul.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  padding: 8px 120px;
+  text-align: center;
+  background-color: white;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: black;
+  background-color: white;
+}
+
+.Cart {
+  width: 2%;
+  height: 2%;
+}
+
+.heroImage {
+  background: #ADE6D8;
+}
+
+.teksHeroImage{
+  font-size: 24px;
+  margin: 80px;
+}
+
+.HeroImageGambar{
+  width: 40%;
+  height: 40%;
+  position: relative;
+  float: right;
+  margin: 30px;
+}
+
+.Button1{
+  background-color: #FFCCB4;
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  font-size: 24px;
+  position: relative;
+  top: 5%;
+  left: 5%;
+}
+
+.Button2{
+  background-color: #FFCCB4;
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  font-size: 24px;
+  margin: 0;
+  position: relative;
+  
+}
+
+.Button3{
+  background-color: #FFCCB4;
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  font-size: 24px;
+  margin: 0;
+  position: relative;
+  bottom: 1%;
+}
+
+.Button4{
+  background-color: #FFCCB4;
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  font-size: 24px;
+  margin: 0;
+  position: relative;
+}
+
+.Judul1{
+  text-align: center;
+  font-size: 24px;
+}
+
+.Judul2{
+  text-align: left;
+  font-size: 24px;
+}
+
+.howItWorks {
+  background: white;
+  text-align: center;
+}
+
+.HowItWorksGambar{
+  width: 100%;
+}
+
+.Pencil{
+  width: 50%;
+  height: 50%;
+}
+
+.Clipboard{
+  width: 50%;
+  height: 50%;
+}
+
+.Task{
+  width: 50%;
+  height: 50%;
+}
+
+.Emotion{
+  width: 50%;
+  height: 50%;
+}
+
+.HowItWorksTable {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.aboutUs {
+  background: #ADE6D8;
+  text-align: center;
+}
+
+
+.AboutUsGambar1{
+  position: relative;
+  width: 30%;
+  height: 40%;
+}
+
+.AboutUsGambar2{
+  position: relative;
+  width: 30%;
+  height: 40%;
+}
+
+.whatYouGet{
+  background: white;
+  text-align: center;
+}
+
+.WhatYouGetTeks{
+  text-align: left;
+}
+
+.WhatYouGetGambar{
+  position: relative;
+  width: 30%;
+  height: 20%;
+}
+
+.footer {
+  background: #ADE6D8;
+}
+
+.GambarLogoFooter{
+  display: block;
+  width: auto;
+  height: auto;  
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.FooterTable{
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.th{
+  text-align: center;
+
+}
+
+.td{
+  text-align: center;
+}
+
+.heroImage{
+  height: 100%;
+}
+.howItWorks{
+  height: 100%;
+}
+.aboutUs{
+  height: 100%;
+}
+.whatYouGet{
+  height: 100%;
+}
+
+.logoDanNamaLembagaMenu
+ {
+  height: 100%;
+}
+.footer
+{
+ height: 100%; 
+}
